@@ -5,13 +5,13 @@
 ## Lesson 01
 
 - [강의](https://course.fast.ai/videos/?lesson=1)
-- [Pets](https://colab.research.google.com/drive/1G9KmMgZ5xARhtmv-KmmiZ8kiJ-kx7bTD)
+- [Pets](https://drive.google.com/file/d/1G9KmMgZ5xARhtmv-KmmiZ8kiJ-kx7bTD/view?usp=sharing)
 
 ## Lesson 02
 
 - [강의](https://course.fast.ai/videos/?lesson=2)
-- [Download](https://colab.research.google.com/drive/1TXlyhMWxugexz3opC36B_9CmO8tlFtMl)
-- [SGD](https://colab.research.google.com/drive/1ueOrnxcUyZd-fU5DNr1MJEH5gzfz1Zmw)
+- [Download](https://drive.google.com/file/d/1TXlyhMWxugexz3opC36B_9CmO8tlFtMl/view?usp=sharingl)
+- [SGD](https://drive.google.com/file/d/1ueOrnxcUyZd-fU5DNr1MJEH5gzfz1Zmw/view?usp=sharing)
 
 ## Lesson 03
 
