@@ -18,3 +18,10 @@
 - [강의](https://course.fast.ai/videos/?lesson=3)
 - [Amazon Planet - Kaggle](https://www.kaggle.com/coffeedjimmy/fast-ai-v3-lesson3-planet-korean-translated)
 - [Camvid - Kaggle]()
+
+
+## Lesson 08
+
+- [강의](https://course.fast.ai/videos/?lesson=8)
+- [Matrix multiplication](https://drive.google.com/file/d/135mLFTQEkb8T6MXlAWleJWHXwgJD_t9u/view?usp=sharing)
+- [Forward and backward passes](https://drive.google.com/file/d/1IRj4GrUrhOl6rx2q883wyMTp7L7Ge_BT/view?usp=sharing)
