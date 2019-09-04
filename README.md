@@ -2,6 +2,9 @@
 
 [code](https://github.com/fastai/course-v3)
 
+## Articles
+- [Fast.ai로 MNIST 학습시키기](https://coffeedjimmy.github.io/fastai_mnist_intro/)
+
 ## Lesson 01
 
 - [강의](https://course.fast.ai/videos/?lesson=1)
@@ -25,3 +28,4 @@
 - [강의](https://course.fast.ai/videos/?lesson=8)
 - [Matrix multiplication](https://drive.google.com/file/d/135mLFTQEkb8T6MXlAWleJWHXwgJD_t9u/view?usp=sharing)
 - [Forward and backward passes](https://drive.google.com/file/d/1IRj4GrUrhOl6rx2q883wyMTp7L7Ge_BT/view?usp=sharing)
+
