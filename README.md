@@ -29,3 +29,7 @@
 - [Matrix multiplication](https://drive.google.com/file/d/135mLFTQEkb8T6MXlAWleJWHXwgJD_t9u/view?usp=sharing)
 - [Forward and backward passes](https://drive.google.com/file/d/1IRj4GrUrhOl6rx2q883wyMTp7L7Ge_BT/view?usp=sharing)
 
+## Lesson 09
+
+- [강의](https://course.fast.ai/videos/?lesson=9)
+- [Minibatch training](https://drive.google.com/file/d/1zJXhiKJSz6MMrZf7c_DZxGQcFemh9HYL/view?usp=sharing)
