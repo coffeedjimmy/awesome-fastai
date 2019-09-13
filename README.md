@@ -26,8 +26,18 @@
 ## Lesson 08
 
 - [강의](https://course.fast.ai/videos/?lesson=8)
-- [Matrix multiplication](https://drive.google.com/file/d/135mLFTQEkb8T6MXlAWleJWHXwgJD_t9u/view?usp=sharing)
-- [Forward and backward passes](https://drive.google.com/file/d/1IRj4GrUrhOl6rx2q883wyMTp7L7Ge_BT/view?usp=sharing)
+- Jimmy's Lecture notes
+  - [part-1](https://coffeedjimmy.github.io/fastai_coursev3_lesson8_01/)
+  - [part-2](https://coffeedjimmy.github.io//fastai_coursev3_lesson8_02/)
+  - [번외편 1](https://coffeedjimmy.github.io//fastai_coursev3_lesson8_03/)
+- 강의자료
+  - Kaggle
+    - [01. matmul](https://www.kaggle.com/coffeedjimmy/fastai-course-v3-01-matmul)
+    - [02. fully-connected](https://www.kaggle.com/coffeedjimmy/fastai-course-v3-02-fully-connected)
+    - [03. why-sqrt5](https://www.kaggle.com/coffeedjimmy/fastai-course-v3-03-why-sqrt5)
+  - Colab
+    - [Matrix multiplication](https://drive.google.com/file/d/135mLFTQEkb8T6MXlAWleJWHXwgJD_t9u/view?usp=sharing)
+    - [Forward and backward passes](https://drive.google.com/file/d/1IRj4GrUrhOl6rx2q883wyMTp7L7Ge_BT/view?usp=sharing)
 
 ## Lesson 09
 
