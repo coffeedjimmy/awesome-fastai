@@ -3,7 +3,12 @@
 [code](https://github.com/fastai/course-v3)
 
 ## Articles
+
 - [Fast.ai로 MNIST 학습시키기](https://coffeedjimmy.github.io/fastai_mnist_intro/)
+
+## Tutorials
+
+- [fastai-inference](https://www.kaggle.com/lgh7654/fastai-inference)
 
 ## Lesson 01
 
@@ -43,3 +48,4 @@
 
 - [강의](https://course.fast.ai/videos/?lesson=9)
 - [Minibatch training](https://drive.google.com/file/d/1zJXhiKJSz6MMrZf7c_DZxGQcFemh9HYL/view?usp=sharing)
+
